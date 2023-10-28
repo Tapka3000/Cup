@@ -5,6 +5,8 @@ public class Cup {
         int cup = 200;
         double procent = 0.5;
         double polovina = cup * procent;
-        System.out.println(polovina);
+        System.out.println("Объем стакана " + cup + " мл");
+        System.out.println("Стакан заполнен на " + procent + " из 1");
+        System.out.println("Стакан заполнен на " + polovina + " мл");
     }
 }
