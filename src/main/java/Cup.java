@@ -1,5 +1,3 @@
-package org.example;
-
 public class Cup {
     public static void main(String[] args) {
         int cup = 200;
